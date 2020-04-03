@@ -1,0 +1,62 @@
+.logo-satrack_full_color {
+    width: 152px;
+    height: 33px;
+    margin: auto;
+    object-fit: contain;
+    margin-left: 50px;
+    margin-top: 71px;
+  }
+  .Bienvenido-de-nuevo {
+    width: 299px;
+    height: 70px;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: rgba(0, 0, 0, 0.95);
+    margin-top: 150px;
+    margin-left: 50px;
+  }
+  .Ingresa-con-tu-cuenta {
+    width: 332px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: rgba(0, 0, 0, 0.55);
+    margin-left: 50px;
+}
+  .Rectangle-Copy-5 {
+    margin-left: 50px;
+    margin-top: 100px;
+    width: 299px;
+    height: 53px;
+    border-radius: 6px;
+    background-color: #4184f3;
+  }
+  .INICIAR-SESIN-CON {
+    width: 156px;
+    height: 13px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #edf3fe;
+  }
+  .Combined-Shape {
+    margin-left: 10px;
+    width: 98px;
+    height: 21px;
+    object-fit: contain;
+  }

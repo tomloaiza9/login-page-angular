@@ -3,14 +3,21 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { LoginComponent } from './login/login.component';
+import { MsalModule } from '@azure/msal-angular';
+import { OAuthSettings } from './oauth';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    MsalModule.forRoot({
+      clientID: OAuthSettings.appId
+    })
   ],
   providers: [],
   bootstrap: [AppComponent]

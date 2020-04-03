@@ -1,0 +1,23 @@
+
+.INICIO-SESION-Knowlegde-center{
+    display: grid;
+    grid-template-columns: auto auto;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+.Rectangle {
+    float: left;
+    width: 100%;
+    height: 110%;
+    background-color: #f2f7fc;
+  }
+  .IMGLogin {
+    margin-top: 160px;
+    margin-left: 169px;
+    width: 675px;
+    height: 307px;
+    object-fit: contain;
+  }
