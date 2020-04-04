@@ -35,15 +35,13 @@
 }
   .Rectangle-Copy-5 {
     margin-left: 50px;
-    margin-top: 100px;
     width: 299px;
     height: 53px;
     border-radius: 6px;
     background-color: #4184f3;
   }
   .INICIAR-SESIN-CON {
-    width: 156px;
-    height: 13px;
+
     font-family: Roboto;
     font-size: 20px;
     font-weight: 500;
@@ -55,7 +53,6 @@
     color: #edf3fe;
   }
   .Combined-Shape {
-    margin-left: 10px;
     width: 98px;
     height: 21px;
     object-fit: contain;
