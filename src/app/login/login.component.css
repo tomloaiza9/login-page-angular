@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 .logo-satrack_full_color {
     width: 152px;
-    height: 33px;
+    height: 25%;
     margin: auto;
     object-fit: contain;
     margin-left: 50px;
@@ -9,15 +10,10 @@
   .Bienvenido-de-nuevo {
     width: 299px;
     height: 70px;
-    font-family: Roboto;
+    font-family: 'Roboto', sans-serif;
     font-size: 25px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
     color: rgba(0, 0, 0, 0.95);
-    margin-top: 150px;
+    margin-top: 30%;
     margin-left: 50px;
   }
   .Ingresa-con-tu-cuenta {
@@ -34,9 +30,13 @@
     margin-left: 50px;
 }
   .Rectangle-Copy-5 {
+    display: flex;
     margin-left: 50px;
     width: 299px;
     height: 53px;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-evenly;
     border-radius: 6px;
     background-color: #4184f3;
   }
